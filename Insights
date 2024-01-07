@@ -1,0 +1,12 @@
+Awesome chocolates sales report
+ In this report regarding the sales analysis of awesome chocolate conducted through SQL and BI the following 3 points where emphasized
+
+1. Employee the select statement and where clause to address pertinent business enquiry.
+
+2. Utilised logical operations such as AND, OR and NOT. integrating them to construct intricate queries
+
+3. Professionally combined data com multiple tables through the applications of JOINTS and created reported using the GROUP BY functions.
+
+4. Imported the SQL database into Power BI to construct intercative and insideful dashboards.
+
+5. Implemented dynamic queries measures and visuals utilising be parameters to announce the overall analysis.
